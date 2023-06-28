@@ -7,7 +7,7 @@
 LiquidCrystal lcd(2, 3, 4, 5, 6, 7);
 SoftwareSerial sim(8, 9); 
 
-String number = "+880XXXXXXXXXX"; // +880 is the country code
+String number = "+919941038696"; // +91 is the country code
 
 int state1 = 0;
 int state2 = 0;
