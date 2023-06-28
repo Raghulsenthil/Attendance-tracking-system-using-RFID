@@ -1,1 +1,1 @@
-# project
+The attendance tracking system using RFID and Arduino Uno is a technology-based solution that aims to simplify attendance management in educational institutions and workplaces. This system uses Radio Frequency Identification (RFID) technology to identify and track individuals, and Arduino Uno microcontroller to process and store attendance data
